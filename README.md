@@ -87,7 +87,7 @@ Issuing `./revenant.sh` afterwards will start a TUI session.
 
 
 # Example TUI session 
-![Demo](img/ui.webm)
+img/ui.mkv
 
 # Ngrok setup
 Please make sure to fill the pool of authtokens inside `tokens.txt` before issuing a tunneled connection.
