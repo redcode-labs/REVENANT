@@ -1,7 +1,7 @@
 <h1 align="center"> Revenant </h1> <br>
 <p align="center">
   <a>
-    <img alt="Revenant" title="Revenant" src="img/logo.png" width="700">
+    <img alt="Revenant" title="Revenant" src="img/logo.png" width="480">
   </a>
 </p>
 
