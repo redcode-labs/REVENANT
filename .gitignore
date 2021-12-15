@@ -1,0 +1,6 @@
+.dbg
+.vnm_dbg
+bin/payload
+bin/self
+src/current_payload.c
+src/stg.asm

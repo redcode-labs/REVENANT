@@ -1,0 +1,19 @@
+authtoken: AUTHTOKEN
+PROXY
+region: REGION
+update: false
+console_ui: false
+web_addr: localhost:7777
+tunnels:
+  t1:
+    proto: tcp
+    addr: LPORT
+  t2:
+    proto: tcp
+    addr: LPORT
+  t3:
+    proto: tcp
+    addr: LPORT
+  t4:
+    proto: tcp
+    addr: LPORT

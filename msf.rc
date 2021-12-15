@@ -1,0 +1,7 @@
+
+    setg payload generic/custom
+    setg ARCH x64
+    setg PLATFORM linux
+    setg PAYLOADFILE bin/stg
+    set PROMPT %blu %T [ s:%S / j:%J ] %L (%U=%H)
+    

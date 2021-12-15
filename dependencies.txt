@@ -1,0 +1,7 @@
+rofi
+hexyl
+metasploit
+radare2
+jq
+ngrok
+lolcat
