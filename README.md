@@ -20,7 +20,7 @@
 </br>
 
 # Intro
-This tool combines [SCC runtime](https://scc.binary.ninja), [rofi](https://github.com/davatorium/rofi), [Msfvenom](https://www.offensive-security.com/metasploit-unleashed/Msfvenom/), [Ngrok](ngrok.com)
+This tool combines [SCC runtime](https://scc.binary.ninja), [rofi](https://github.com/davatorium/rofi), [Msfvenom](https://www.offensive-security.com/metasploit-unleashed/Msfvenom/), [Ngrok](https://ngrok.com)
 and a dynamic template processor, offering an easy to use interface for compiling custom, highly evasive ELF payloads for testing Linux ecosystems.
 Automatic integration with Metasploit Framework Console offers infinite prototypying possibilities.
 
